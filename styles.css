@@ -8,17 +8,17 @@ h1 {
 }
 .about {
     color: #a58fb5;
-    background-color: #e7cced; opacity: 0.3;
+    background-color: #e7cced; opacity: 0.1;
 }
 .skills {
     color: #bd648a;
-    background-color: #eba9c5; opacity: 0.3;
+    background-color: #eba9c5; opacity: 0.1;
 }
 .projects {
     color: #587eb8;
-    background-color: #abc4eb; opacity: 0.3;
+    background-color: #abc4eb; opacity: 0.1;
 }
 .contact {
     color: #911d40;
-    background-color: #d6819a; opacity: 0.3;
+    background-color: #d6819a; opacity: 0.1;
 }
