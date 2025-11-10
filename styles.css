@@ -51,7 +51,7 @@ width: 300px;
 height: 300px;
 margin: 10px;
 border: 2px solid rgb(67, 14, 120);
-display: block;
+display: inline;
 margin: auto;
 }
 
