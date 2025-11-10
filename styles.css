@@ -6,6 +6,10 @@ h1 {
     color: #0c238d;
     text-align:center;
 }
+
+h2 {
+    display: block;
+}
 .about {
     color: #a58fb5;
     background-color: rgba(231, 204, 237, 0.3);
