@@ -25,7 +25,6 @@ width: 30%;
 margin: 10px;
 padding: 20px 10px;
 background: rgba(151, 153, 232, 0.3);
-border-radius: 25%;
 }
 .contact {
     color: #911d40;
@@ -48,7 +47,7 @@ img {
 width: 300px;
 height: 300px;
 margin: 10px;
-border: 2px solid rgb(126, 14, 201);
+border: 2px solid rgb(67, 14, 120);
 display: block;
 margin: auto;
 }
