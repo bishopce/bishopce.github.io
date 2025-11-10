@@ -21,7 +21,6 @@ h2 {
 .projects {
     color: #587eb8;
     background-color: rgba(171, 196, 235, 0.3);
-    display:flex; flex-wrap:wrap;
 }
 
 .project {
