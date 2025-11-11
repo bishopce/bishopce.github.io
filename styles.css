@@ -10,6 +10,12 @@ h1 {
 h2 {
     display: block;
 }
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
 .about {
     color: #a58fb5;
     background-color: rgba(231, 204, 237, 0.3);
@@ -21,6 +27,7 @@ h2 {
 .projects {
     color: #587eb8;
     background-color: rgba(171, 196, 235, 0.3);
+    display: flex; flex-wrap: wrap;
 }
 
 .project {
@@ -39,11 +46,6 @@ a:link {
 }
 a:visited {
     color: darkslateblue
-}
-
-img {
-    width: 500px;
-    height: 500px;
 }
 
 .project img{
