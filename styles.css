@@ -11,11 +11,6 @@ h2 {
     display: block;
 }
 
-img {
-    width: 500px;
-    height: 500px;
-}
-
 .about {
     color: #a58fb5;
     background-color: rgba(231, 204, 237, 0.3);
@@ -51,10 +46,11 @@ a:visited {
 .project img{
 width: 200px;
 height: 200px;
-margin: 10px;
+margin: 5px;
 border: 2px solid rgb(67, 14, 120);
-display: inline-block;
+display: block;
 margin: auto;
+
 }
 
 .project h3 {
