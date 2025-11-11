@@ -49,11 +49,11 @@ a:visited {
 }
 
 .project img{
-width: 300px;
-height: 300px;
+width: 200px;
+height: 200px;
 margin: 10px;
 border: 2px solid rgb(67, 14, 120);
-display: inline;
+display: inline-block;
 margin: auto;
 }
 
