@@ -1,11 +1,12 @@
 body{
-    font-family: 'Times New Roman', Georgia, serif
+    font-family: 'Times New Roman', Georgia, serif;
 }
 
 #side {
     text-align: right;
+    font-weight: bold;
 }
 
 #side2 {
-    text-align: right
+    text-align: right;
 }

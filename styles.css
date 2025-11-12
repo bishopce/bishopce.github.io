@@ -37,10 +37,10 @@ background: rgba(151, 153, 232, 0.3);
 }
 
 a:link {
-    color: cornflowerblue
+    color: cornflowerblue;
 }
 a:visited {
-    color: darkslateblue
+    color: darkslateblue;
 }
 
 .project img{
