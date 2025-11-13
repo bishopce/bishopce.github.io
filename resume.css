@@ -4,9 +4,11 @@ body{
 
 #side {
     text-align: right;
+    display: inline-block;
     font-weight: bold;
 }
 
 #side2 {
     text-align: right;
+    display: inline-block;
 }
