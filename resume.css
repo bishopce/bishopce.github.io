@@ -3,10 +3,10 @@ body{
 }
 
 #side {
-    float: right;
+    text-align: right;
     font-weight: bold;
 }
 
 #side2 {
-    float: right;
+    text-align: right;
 }
