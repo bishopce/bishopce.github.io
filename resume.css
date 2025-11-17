@@ -2,11 +2,19 @@ body{
     font-family: 'Times New Roman', Georgia, serif;
 }
 
-#side {
-    text-align: right;
-    font-weight: bold;
+.box{
+    display: flex;
+    flex-wrap: wrap;
 }
 
-#side2 {
-    text-align: right;
+.box2{
+    display: block;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
 }
