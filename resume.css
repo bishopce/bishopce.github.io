@@ -4,7 +4,9 @@ body{
 
 .box{
     display: flex;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
 }
 
 .box2{
@@ -12,13 +14,14 @@ body{
 }
 
 .left{
-    float: left;
+    text-align: left;
 }
 
 .right{
-    float: right;
+    text-align: right;
 }
 
 .rightbold {
-    float: right;
+    text-align: right;
+    font-weight: bold;
 }
