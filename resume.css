@@ -18,3 +18,7 @@ body{
 .right{
     float: right;
 }
+
+.rightbold {
+    float: right;
+}
