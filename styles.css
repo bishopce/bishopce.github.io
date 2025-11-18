@@ -17,7 +17,11 @@ h2 {
 }
 .skills {
     color: #bd648a;
-    background-color: rgba(235, 169, 197, 0.3);
+    background-color: #eba9c54d;
+}
+
+.skill {
+    background-color: #e7cbd74d;
 }
 .projects {
     color: #587eb8;
