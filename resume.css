@@ -2,7 +2,6 @@ body{
     font-family: 'Times New Roman', Georgia, serif;
 }
 
-
 .box{
     display: flex;
     justify-content: space-between;
