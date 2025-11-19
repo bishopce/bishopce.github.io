@@ -17,6 +17,11 @@ h2 {
     display:flex;
     align-items: center;
 }
+.about img{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
 .skills {
     color: #bd648a;
     background-color: #eba9c54d;
