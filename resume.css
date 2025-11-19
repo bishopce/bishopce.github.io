@@ -4,9 +4,10 @@ body{
 
 .box{
     display: flex;
+    /* two lines below written by chatGPT*/
     justify-content: space-between;
     align-items: center;
-
+    font-size: 0;
 }
 
 .box2{
