@@ -14,6 +14,8 @@ h2 {
 .about {
     color: #a58fb5;
     background-color: rgba(231, 204, 237, 0.3);
+    display:flex;
+    align-items: center;
 }
 .skills {
     color: #bd648a;
