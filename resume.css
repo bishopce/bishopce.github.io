@@ -3,7 +3,7 @@ body{
 }
 
 .box{
-    line-height: 1.5;
+    line-height: 1.0;
     display: flex;
     /* two lines below written by chatGPT*/
     justify-content: space-between;
