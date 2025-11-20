@@ -63,7 +63,6 @@ margin: auto;
     text-align: center;
 }
 
-.projects h2{
+#highlighted{
     display:block;
-    width: 100%;
 }
