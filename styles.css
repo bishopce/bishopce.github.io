@@ -64,5 +64,6 @@ margin: auto;
 }
 
 .projects h2{
+    display:block;
     width: 100%;
 }
